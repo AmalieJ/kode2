@@ -1,13 +1,13 @@
 body {
   background: lightblue;
-  max-width: 1000px;
+  max-width: 1400px;
   margin: auto;
 }
 
 .container > .header {background-color: red;}
-.container > .menu {background-color: blue;}
+.container > .menu {background-color: yellow;}
 .container >.main {background-color: yellow;}
-.container > .right {background-color: purple;}
+.container > .right {background-color: yellow;}
 .container > .footer {background-color: green;}
 
 
@@ -28,6 +28,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100px;
+    border-radius: 5px;
 }
 
 
